@@ -10,6 +10,11 @@
 {"id": "9", "type": "frame", "text": "", "color": "", "tags": [], "group": "", "duration_ms": 100}
 {"id": "10", "type": "frame", "text": "", "color": "", "tags": [], "group": "", "duration_ms": 100}
 {"id": "11", "type": "frame", "text": "", "color": "", "tags": [], "group": "", "duration_ms": 100}
+{"id": "12", "type": "frame", "text": "", "color": "", "tags": [], "group": "", "duration_ms": 100}
+{"id": "13", "type": "frame", "text": "", "color": "", "tags": [], "group": "", "duration_ms": 100}
+{"id": "14", "type": "frame", "text": "", "color": "", "tags": [], "group": "", "duration_ms": 100}
+{"id": "15", "type": "frame", "text": "", "color": "", "tags": [], "group": "", "duration_ms": 100}
+{"id": "16", "type": "frame", "text": "", "color": "", "tags": [], "group": "", "duration_ms": 100}
 {"x": 61, "y": 0, "text": "DarkDraw\u2122 tutorial", "color": "", "tags": [], "group": "", "frame": "0"}
 {"x": 3, "y": 3, "text": "DarkDraw is an innovative drawing tool with a data-oriented interface.", "color": "", "tags": [], "group": "", "frame": "0"}
 {"x": 8, "y": 23, "text": "q", "color": "bold 123", "tags": ["keys"], "group": "", "frame": "0"}
@@ -60,9 +65,9 @@
 {"x": 3, "y": 7, "text": "As DarkDraw takes advantage of VisiData in both concept and implementation,", "color": "", "tags": [], "group": "", "frame": "0"}
 {"x": 3, "y": 8, "text": "many commands and workflows described here are relevant in VisiData too.", "color": "", "tags": [], "group": "", "frame": "0"}
 {"x": 3, "y": 9, "text": "Workflows and commands that are DarkDraw-specific are marked with", "color": "", "tags": [], "group": "", "frame": "0"}
-{"x": 69, "y": 9, "text": "DD.", "color": "", "tags": [], "group": "", "frame": "0"}
-{"x": 2, "y": 20, "text": "DD.", "color": "", "tags": [], "group": "", "frame": "0"}
-{"x": 2, "y": 21, "text": "DD.", "color": "", "tags": [], "group": "", "frame": "0"}
+{"x": 69, "y": 9, "text": "DD.", "color": "bold 202", "tags": [], "group": "", "frame": "0"}
+{"x": 2, "y": 20, "text": "DD.", "color": "bold 202", "tags": [], "group": "", "frame": "0"}
+{"x": 2, "y": 21, "text": "DD.", "color": "bold 202", "tags": [], "group": "", "frame": "0"}
 {"x": 1, "y": 10, "text": "Then ", "color": "", "tags": [], "group": "cages", "frame": "1"}
 {"x": 6, "y": 10, "text": "Tab", "color": "bold 123", "tags": ["keys"], "group": "cages", "frame": "1"}
 {"x": 10, "y": 10, "text": "to go the other pane (and ", "color": "", "tags": [], "group": "cages", "frame": "1"}
@@ -121,7 +126,7 @@
 {"x": 23, "y": 1, "text": "Finding Unicode Characters", "color": "", "tags": [], "group": "", "frame": "5"}
 {"x": 2, "y": 3, "text": "Unicode has an extensive library of available glyphs.", "color": "", "tags": [], "group": "", "frame": "5"}
 {"x": 7, "y": 6, "text": "Shift+M", "color": "bold 123", "tags": ["keys"], "group": "", "frame": "5"}
-{"x": 2, "y": 6, "text": "DD.", "color": "", "tags": [], "group": "", "frame": "5"}
+{"x": 2, "y": 6, "text": "DD.", "color": "bold 202", "tags": [], "group": "", "frame": "5"}
 {"x": 23, "y": 5, "text": "to open a table of Unicode characters.", "color": "", "tags": [], "group": "", "frame": "5"}
 {"x": 10, "y": 5, "text": "open-unicode", "color": "", "tags": ["longnames"], "group": "", "frame": "5"}
 {"x": 4, "y": 5, "text": "Space", "color": "bold 123", "tags": ["keys"], "group": "", "frame": "5"}
@@ -239,9 +244,9 @@
 {"x": 4, "y": 7, "text": "1", "color": "bold 123", "tags": ["keys"], "group": "", "frame": "10"}
 {"x": 6, "y": 7, "text": "9", "color": "bold 123", "tags": ["keys"], "group": "", "frame": "10"}
 {"x": 5, "y": 7, "text": "-", "color": "", "tags": [], "group": "", "frame": "10"}
-{"x": 0, "y": 9, "text": "DD.", "color": "", "tags": [], "group": "", "frame": "10"}
-{"x": 0, "y": 7, "text": "DD.", "color": "", "tags": [], "group": "", "frame": "10"}
-{"x": 0, "y": 12, "text": "DD.", "color": "", "tags": [], "group": "", "frame": "10"}
+{"x": 0, "y": 9, "text": "DD.", "color": "bold 202", "tags": [], "group": "", "frame": "10"}
+{"x": 0, "y": 7, "text": "DD.", "color": "bold 202", "tags": [], "group": "", "frame": "10"}
+{"x": 0, "y": 12, "text": "DD.", "color": "bold 202", "tags": [], "group": "", "frame": "10"}
 {"x": 4, "y": 12, "text": ";", "color": "bold 123", "tags": [], "group": "", "frame": "10"}
 {"x": 6, "y": 12, "text": "to cycle through paste modes (see current paste mode on left status)", "color": "", "tags": [], "group": "", "frame": "10"}
 {"x": 9, "y": 13, "text": "to paste both character and color", "color": "", "tags": [], "group": "", "frame": "10"}
@@ -252,19 +257,137 @@
 {"x": 3, "y": 15, "text": "color", "color": "", "tags": [], "group": "", "frame": "10"}
 {"x": 28, "y": 1, "text": "Cursor on the Drawing", "color": "", "tags": [], "group": "", "frame": "11"}
 {"x": 5, "y": 5, "text": "Left mouse click", "color": "bold 123", "tags": [], "group": "", "frame": "11"}
-{"x": 22, "y": 5, "text": "to move the cursor (both Drawings and Tables).", "color": "", "tags": [], "group": "", "frame": "11"}
+{"x": 22, "y": 5, "text": "to move the cursor.", "color": "", "tags": [], "group": "", "frame": "11"}
 {"x": 31, "y": 6, "text": "to set the cursor size on a Drawing.", "color": "", "tags": [], "group": "", "frame": "11"}
-{"x": 1, "y": 6, "text": "DD.", "color": "", "tags": [], "group": "", "frame": "11"}
+{"x": 1, "y": 6, "text": "DD.", "color": "bold 202", "tags": [], "group": "", "frame": "11"}
 {"x": 2, "y": 3, "text": "On a Drawing, the cursor is mostly useful for selecting and pasting objects.", "color": "", "tags": [], "group": "", "frame": "11"}
 {"x": 5, "y": 7, "text": "z Arrow", "color": "bold 123", "tags": [], "group": "", "frame": "11"}
 {"x": 13, "y": 7, "text": "to shrink or expand the cursor.", "color": "", "tags": [], "group": "", "frame": "11"}
-{"x": 1, "y": 7, "text": "DD.", "color": "", "tags": [], "group": "", "frame": "11"}
+{"x": 1, "y": 7, "text": "DD.", "color": "bold 202", "tags": [], "group": "", "frame": "11"}
 {"x": 5, "y": 9, "text": "Enter", "color": "bold 123", "tags": [], "group": "", "frame": "11"}
-{"x": 11, "y": 9, "text": "to push a backing subsheet with the characters under the cursor.", "color": "", "tags": [], "group": "", "frame": "11"}
+{"x": 11, "y": 9, "text": "to push a backing subsheet* with the characters under the cursor.", "color": "", "tags": [], "group": "", "frame": "11"}
 {"x": 3, "y": 10, "text": "g Enter", "color": "bold 123", "tags": [], "group": "", "frame": "11"}
-{"x": 11, "y": 10, "text": "to push a backing subsheet with all selected objects.", "color": "", "tags": [], "group": "", "frame": "11"}
+{"x": 11, "y": 10, "text": "to push a backing subsheet* with all selected objects.", "color": "", "tags": [], "group": "", "frame": "11"}
 {"x": 3, "y": 12, "text": "{", "color": "bold 123", "tags": [], "group": "", "frame": "11"}
 {"x": 8, "y": 12, "text": "}", "color": "bold 123", "tags": [], "group": "", "frame": "11"}
 {"x": 11, "y": 12, "text": "to go to the previous or next selected item", "color": "", "tags": [], "group": "", "frame": "11"}
 {"x": 5, "y": 12, "text": "or", "color": "", "tags": [], "group": "", "frame": "11"}
 {"x": 5, "y": 6, "text": "Left mouse click and drag", "color": "bold 123", "tags": [], "group": "", "frame": "11"}
+{"x": 1, "y": 14, "text": "*items on subsheets can be edited but not added or deleted", "color": "", "tags": [], "group": "", "frame": "11"}
+{"x": 20, "y": 1, "text": "Tagging Objects and Selecting By Tag", "color": "", "tags": [], "group": "", "frame": "12"}
+{"x": 2, "y": 3, "text": "+", "color": "bold 123", "tags": [], "group": "", "frame": "12"}
+{"x": 4, "y": 3, "text": "to add a tag to the objects under the cursor.", "color": "", "tags": [], "group": "", "frame": "12"}
+{"x": 1, "y": 4, "text": "g+", "color": "bold 123", "tags": [], "group": "", "frame": "12"}
+{"x": 4, "y": 4, "text": "to add a tag to all selected objects.", "color": "", "tags": [], "group": "", "frame": "12"}
+{"x": 2, "y": 6, "text": "Then ", "color": "", "tags": [], "group": "", "frame": "12"}
+{"x": 7, "y": 6, "text": "|", "color": "bold 123", "tags": [], "group": "", "frame": "12"}
+{"x": 9, "y": 6, "text": "to prompt for a tag to select,", "color": "", "tags": [], "group": "", "frame": "12"}
+{"x": 4, "y": 7, "text": "or", "color": "", "tags": [], "group": "", "frame": "12"}
+{"x": 7, "y": 7, "text": "\\", "color": "bold 123", "tags": [], "group": "", "frame": "12"}
+{"x": 9, "y": 7, "text": "to prompt for a tag to unselect.", "color": "", "tags": [], "group": "", "frame": "12"}
+{"x": 2, "y": 9, "text": "Extra visibility mode 1 shows tags along with their auto-assigned number.", "color": "", "tags": [], "group": "", "frame": "12"}
+{"x": 6, "y": 14, "text": "g03", "color": "bold 123", "tags": [], "group": "", "frame": "12"}
+{"x": 10, "y": 14, "text": "to select all objects with that tag.", "color": "", "tags": [], "group": "", "frame": "12"}
+{"x": 6, "y": 15, "text": "z03", "color": "bold 123", "tags": [], "group": "", "frame": "12"}
+{"x": 10, "y": 15, "text": "to unselect all objects with that tag.", "color": "", "tags": [], "group": "", "frame": "12"}
+{"x": 7, "y": 13, "text": "03", "color": "bold 123", "tags": [], "group": "", "frame": "12"}
+{"x": 10, "y": 13, "text": "to toggle hide/unhide of objects with that tag.", "color": "", "tags": [], "group": "", "frame": "12"}
+{"x": 8, "y": 9, "text": "v", "color": "bold 123", "tags": [], "group": "", "frame": "12"}
+{"x": 2, "y": 11, "text": "If a tags assigned numeric short is 03, then:", "color": "", "tags": [], "group": "", "frame": "12"}
+{"x": 24, "y": 1, "text": "Sliding Selected Objects Around", "color": "", "tags": [], "group": "", "frame": "13"}
+{"x": 2, "y": 3, "text": "To slide some objects around without using cut+paste:", "color": "", "tags": [], "group": "", "frame": "13"}
+{"x": 4, "y": 5, "text": "a.  select those objects (on either the drawing or the backing sheet)", "color": "", "tags": [], "group": "", "frame": "13"}
+{"x": 4, "y": 6, "text": "b.", "color": "", "tags": [], "group": "", "frame": "13"}
+{"x": 16, "y": 6, "text": "J", "color": "bold 123", "tags": [], "group": "", "frame": "13"}
+{"x": 18, "y": 6, "text": "K", "color": "bold 123", "tags": [], "group": "", "frame": "13"}
+{"x": 20, "y": 6, "text": "L", "color": "bold 123", "tags": [], "group": "", "frame": "13"}
+{"x": 22, "y": 6, "text": "to slide all selected objects one cell in that direction", "color": "", "tags": [], "group": "", "frame": "13"}
+{"x": 4, "y": 9, "text": "Note that", "color": "", "tags": [], "group": "", "frame": "13"}
+{"x": 14, "y": 9, "text": "h", "color": "bold 123", "tags": [], "group": "", "frame": "13"}
+{"x": 16, "y": 9, "text": "j", "color": "bold 123", "tags": [], "group": "", "frame": "13"}
+{"x": 18, "y": 9, "text": "k", "color": "bold 123", "tags": [], "group": "", "frame": "13"}
+{"x": 20, "y": 9, "text": "l", "color": "bold 123", "tags": [], "group": "", "frame": "13"}
+{"x": 22, "y": 9, "text": "move the cursor like the Arrow keys.", "color": "", "tags": [], "group": "", "frame": "13"}
+{"x": 8, "y": 6, "text": "Shift+H", "color": "bold 123", "tags": [], "group": "", "frame": "13"}
+{"x": 14, "y": 8, "text": "\u2190", "color": "bold 123", "tags": [], "group": "", "frame": "13"}
+{"x": 18, "y": 8, "text": "\u2191", "color": "bold 123", "tags": [], "group": "up arrow", "frame": "13"}
+{"x": 16, "y": 8, "text": "\u2193", "color": "bold 123", "tags": [], "group": "", "frame": "13"}
+{"x": 20, "y": 8, "text": "\u2192", "color": "bold 123", "tags": [], "group": "", "frame": "13"}
+{"x": 27, "y": 1, "text": "Animation with DarkDraw", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 1, "y": 3, "text": "An animation has the same structure as a drawing, with additional \"frames\"", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 1, "y": 4, "text": "on the backing sheet.", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 8, "y": 5, "text": "Shift+F", "color": "bold 123", "tags": [], "group": "", "frame": "14"}
+{"x": 16, "y": 5, "text": "to push a subsheet with all frames.", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 4, "y": 5, "text": "DD.", "color": "bold 202", "tags": [], "group": "", "frame": "14"}
+{"x": 6, "y": 6, "text": "id", "color": "bold 129", "tags": [], "group": "", "frame": "14"}
+{"x": 6, "y": 7, "text": "duration_ms", "color": "bold 129", "tags": [], "group": "", "frame": "14"}
+{"x": 10, "y": 6, "text": "is the name of the frame.", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 18, "y": 7, "text": "is how long to wait before moving onto the next frame.", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 1, "y": 10, "text": "In fact, each page in this tutorial is a frame in an animation.", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 1, "y": 11, "text": "You've been moving through frames manually with", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 49, "y": 11, "text": "[", "color": "bold 123", "tags": [], "group": "", "frame": "14"}
+{"x": 51, "y": 11, "text": "and", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 55, "y": 11, "text": "]", "color": "bold 123", "tags": [], "group": "", "frame": "14"}
+{"x": 4, "y": 12, "text": "(you may have deduced", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 26, "y": 12, "text": "g[", "color": "bold 123", "tags": [], "group": "", "frame": "14"}
+{"x": 29, "y": 12, "text": "to move to the first frame", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 26, "y": 13, "text": "g]", "color": "bold 123", "tags": [], "group": "", "frame": "14"}
+{"x": 29, "y": 13, "text": "to move to the last frame)", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 22, "y": 13, "text": "and", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 1, "y": 15, "text": "DD.", "color": "bold 202", "tags": [], "group": "", "frame": "14"}
+{"x": 5, "y": 15, "text": "r", "color": "bold 123", "tags": [], "group": "", "frame": "14"}
+{"x": 7, "y": 15, "text": "to replay this tutorial animation from start to finish in real-time.", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 4, "y": 8, "text": "(", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 5, "y": 8, "text": "q", "color": "bold 123", "tags": [], "group": "", "frame": "14"}
+{"x": 7, "y": 8, "text": "to quit the frames sheet as always)", "color": "", "tags": [], "group": "", "frame": "14"}
+{"x": 27, "y": 1, "text": "Creating animation frames", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 6, "y": 3, "text": "z]", "color": "bold 123", "tags": [], "group": "", "frame": "15"}
+{"x": 9, "y": 3, "text": "to create a new frame after the current one.", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 2, "y": 3, "text": "DD.", "color": "bold 202", "tags": [], "group": "", "frame": "15"}
+{"x": 6, "y": 5, "text": "Then create another one; now there are 2 frames.", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 6, "y": 6, "text": "Note the current frame number in the lower right status.", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 1, "y": 8, "text": "Now go to the backing sheet for your drawing and see the", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 58, "y": 8, "text": "frame", "color": "bold 129", "tags": [], "group": "", "frame": "15"}
+{"x": 64, "y": 8, "text": "column.", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 1, "y": 9, "text": "It's been empty up to this point, and so these elements are drawn no matter", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 4, "y": 10, "text": "what the current frame is.", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 1, "y": 12, "text": "To draw an object on only one frame, ", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 43, "y": 12, "text": "frame", "color": "bold 129", "tags": [], "group": "", "frame": "15"}
+{"x": 49, "y": 12, "text": "and set to that frame's", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 38, "y": 12, "text": "e", "color": "bold 123", "tags": [], "group": "", "frame": "15"}
+{"x": 39, "y": 12, "text": "dit", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 4, "y": 15, "text": "zd", "color": "bold 123", "tags": [], "group": "", "frame": "15"}
+{"x": 7, "y": 15, "text": "or", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 10, "y": 15, "text": "Del", "color": "bold 123", "tags": [], "group": "", "frame": "15"}
+{"x": 14, "y": 15, "text": "to clear a cell in VisiData.", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 4, "y": 16, "text": "gzd", "color": "bold 123", "tags": [], "group": "", "frame": "15"}
+{"x": 8, "y": 16, "text": "or", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 11, "y": 16, "text": "gDel", "color": "bold 123", "tags": [], "group": "", "frame": "15"}
+{"x": 16, "y": 16, "text": "to clear cells in all selected rows.", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 1, "y": 18, "text": "Now go to the backing sheet of your drawing and put some elements in frame", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 76, "y": 18, "text": "0", "color": "bold 123", "tags": [], "group": "", "frame": "15"}
+{"x": 2, "y": 19, "text": "and some in frame", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 64, "y": 14, "text": "", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 20, "y": 19, "text": "1", "color": "bold 123", "tags": [], "group": "", "frame": "15"}
+{"x": 21, "y": 19, "text": ".", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 1, "y": 13, "text": "To draw it on all frames again, clear", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 39, "y": 13, "text": "frame", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 45, "y": 13, "text": "for that object.", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 23, "y": 19, "text": " Then on your drawing,", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 46, "y": 19, "text": "[", "color": "bold 123", "tags": [], "group": "", "frame": "15"}
+{"x": 48, "y": 19, "text": "and", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 52, "y": 19, "text": "]", "color": "bold 123", "tags": [], "group": "", "frame": "15"}
+{"x": 54, "y": 19, "text": "to flip between them.", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 73, "y": 12, "text": "id", "color": "bold 129", "tags": [], "group": "", "frame": "15"}
+{"x": 75, "y": 12, "text": ".", "color": "", "tags": [], "group": "", "frame": "15"}
+{"x": 26, "y": 1, "text": "End of Tutorial", "color": "", "tags": [], "group": "", "frame": "16"}
+{"x": 2, "y": 3, "text": "This is the end of the DarkDraw tutorial, but it's only the beginning of", "color": "", "tags": [], "group": "", "frame": "16"}
+{"x": 4, "y": 4, "text": "your journey into the wonderful world of text art and animation.", "color": "", "tags": [], "group": "", "frame": "16"}
+{"x": 2, "y": 6, "text": "For more information, see:", "color": "", "tags": [], "group": "", "frame": "16"}
+{"x": 5, "y": 8, "text": "https://github.com/devottys/darkdraw", "color": "", "tags": [], "group": "", "frame": "16"}
+{"x": 5, "y": 9, "text": "https://bluebird.sh", "color": "", "tags": [], "group": "", "frame": "16"}
+{"x": 60, "y": 15, "text": "Credits", "color": "underline", "tags": [], "group": "", "frame": "16"}
+{"x": 60, "y": 17, "text": "The Devottys", "color": "", "tags": [], "group": "", "frame": "16"}
+{"x": 62, "y": 18, "text": "saul.pw", "color": "", "tags": [], "group": "", "frame": "16"}
+{"x": 62, "y": 19, "text": "anja.kefala.info", "color": "", "tags": [], "group": "", "frame": "16"}
+{"x": 62, "y": 20, "text": "dwimmer.tm", "color": "", "tags": [], "group": "", "frame": "16"}
