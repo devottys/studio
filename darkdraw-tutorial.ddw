@@ -105,7 +105,7 @@
 {"x": 5, "y": 3, "text": "organized in whatever way makes the most sense.", "color": "", "tags": [], "group": "", "frame": "3"}
 {"x": 2, "y": 9, "text": "Ctrl+^", "color": "bold 123", "tags": ["keys"], "group": "", "frame": "3"}
 {"x": 9, "y": 9, "text": "to swap between the top two sheets within a pane (like vim).", "color": "", "tags": [], "group": "", "frame": "3"}
-{"x": 2, "y": 11, "text": "Notice the color and character descriptions in the right hand status.", "color": "", "tags": [], "group": "", "frame": "3"}
+{"x": 5, "y": 12, "text": "character descriptions in the right hand status.", "color": "", "tags": [], "group": "", "frame": "3"}
 {"x": 30, "y": 0, "text": "Copy and Paste", "color": "bold magenta", "tags": ["title"], "group": "", "frame": "4"}
 {"x": 24, "y": 2, "text": "move the cursor to one of the objects you added earlier.", "color": "", "tags": [], "group": "", "frame": "4"}
 {"x": 7, "y": 5, "text": "y", "color": "bold 123", "tags": ["keys"], "group": "", "frame": "4"}
@@ -159,8 +159,8 @@
 {"x": 18, "y": 17, "text": "\u24e3", "color": "black on black", "tags": [], "group": "", "frame": "6"}
 {"x": 22, "y": 0, "text": "Available Colors and Attributes", "color": "bold magenta", "tags": ["title"], "group": "", "frame": "7"}
 {"x": 2, "y": 2, "text": "Set the color attribute of an object to a string like \"", "color": "", "tags": [], "group": "", "frame": "7"}
-{"x": 57, "y": 2, "text": "blue on cyan", "color": "blue on cyan", "tags": [], "group": "", "frame": "7"}
-{"x": 69, "y": 2, "text": "\".", "color": "", "tags": [], "group": "", "frame": "7"}
+{"x": 57, "y": 2, "text": "bold 10 on blue", "color": "bold 10 on blue", "tags": [], "group": "", "frame": "7"}
+{"x": 69, "y": 2, "text": "", "color": "", "tags": [], "group": "", "frame": "7"}
 {"x": 2, "y": 4, "text": "These color names are available, or you can use a number from 0-255:", "color": "", "tags": [], "group": "", "frame": "7"}
 {"x": 2, "y": 6, "text": "blue", "color": "blue", "tags": [], "group": "", "frame": "7"}
 {"x": 7, "y": 6, "text": "red", "color": "red", "tags": [], "group": "", "frame": "7"}
@@ -545,3 +545,11 @@
 {"x": 25, "y": 17, "text": "]", "color": "bold 123", "tags": ["keys"], "group": "", "frame": "15"}
 {"x": 27, "y": 17, "text": "to", "color": "", "tags": [], "group": "", "frame": "15"}
 {"x": 30, "y": 17, "text": "End of Tutorial", "color": "bold magenta", "tags": ["title"], "group": "", "frame": "15"}
+{"x": 2, "y": 11, "text": "Move the cursor over a color in the palette and notice the color code and", "color": "", "tags": [], "group": "", "frame": "3"}
+{"x": 8, "y": 14, "text": "vim", "color": "bold 120", "tags": [], "group": "", "frame": "5"}
+{"x": 22, "y": 14, "text": "more", "color": "bold 120", "tags": [], "group": "", "frame": "5"}
+{"x": 31, "y": 14, "text": "less", "color": "bold 120", "tags": [], "group": "", "frame": "5"}
+{"x": 50, "y": 14, "text": "man", "color": "bold 120", "tags": [], "group": "", "frame": "5"}
+{"x": 72, "y": 2, "text": "\".", "color": "", "tags": [], "group": "", "frame": "7"}
+{"x": 51, "y": 12, "text": "(PgDn to scroll down)", "color": "", "tags": [], "group": "", "frame": "0"}
+{"x": 52, "y": 12, "text": "PgDn", "color": "bold 123", "tags": [], "group": "", "frame": "0"}
