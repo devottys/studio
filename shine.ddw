@@ -1,0 +1,699 @@
+{"id": "", "type": "-", "x": 0, "y": 0, "text": "-", "frame": "-"}
+{"id": "", "type": "Title", "x": 0, "y": 0, "text": "Shine", "color": "", "tags": "", "group": "", "frame": "SAUCE_record", "rows": []}
+{"id": "", "type": "Author", "x": 0, "y": 1, "text": "MC Fresher", "color": "", "tags": "", "group": "", "frame": "SAUCE_record", "rows": []}
+{"id": "", "type": "Group", "x": 0, "y": 2, "text": "The Devottys", "color": "", "tags": "", "group": "", "frame": "SAUCE_record", "rows": []}
+{"id": "", "type": "Date", "x": 0, "y": 3, "text": "20260513", "color": "", "tags": "", "group": "", "frame": "SAUCE_record", "rows": []}
+{"id": "", "type": "Dimensions", "x": 0, "y": 4, "text": "24x14", "color": "", "tags": "", "group": "", "frame": "SAUCE_record", "rows": []}
+{"id": "", "type": "Flags", "x": 0, "y": 5, "text": " ", "color": "", "tags": "", "group": "", "frame": "SAUCE_record", "rows": []}
+{"id": "", "type": "Font", "x": 0, "y": 6, "text": "unscii", "color": "", "tags": "", "group": "", "frame": "SAUCE_record", "rows": []}
+{"id": "", "type": "Comment 1", "x": 0, "y": 7, "text": "DDW text-mode animation; ENCODING=UTF-8", "color": "", "tags": "", "group": "", "frame": "SAUCE_record", "rows": []}
+{"id": "", "type": "-", "x": 0, "y": 0, "text": "-", "frame": "-"}
+{"id": "blank", "type": "frame", "text": "", "color": "", "tags": "[]", "group": "", "duration_ms": 2000}
+{"id": "fade-lo", "type": "frame", "text": "", "color": "", "tags": "[]", "group": "", "duration_ms": 100}
+{"id": "fade-lomid", "type": "frame", "text": "", "color": "", "tags": "[]", "group": "", "duration_ms": 100}
+{"id": "fade-mid", "type": "frame", "text": "", "color": "", "tags": "[]", "group": "", "duration_ms": 100}
+{"id": "fade-himid", "type": "frame", "text": "", "color": "", "tags": "[]", "group": "", "duration_ms": 100}
+{"id": "devottys", "type": "frame", "text": "", "color": "", "tags": "[]", "group": "", "duration_ms": 166}
+{"id": "shine1", "type": "frame", "text": "", "color": "", "tags": "[]", "group": "", "duration_ms": 133}
+{"id": "shine2", "type": "frame", "text": "", "color": "", "tags": "[]", "group": "", "duration_ms": 99}
+{"id": "shine3", "type": "frame", "text": "", "color": "", "tags": "[]", "group": "", "duration_ms": 66}
+{"id": "devottys", "type": "frame", "text": "", "color": "", "tags": "[]", "group": "", "duration_ms": 3000}
+{"id": "fade-himid", "type": "frame", "text": "", "color": "", "tags": "[]", "group": "", "duration_ms": 100}
+{"id": "fade-mid", "type": "frame", "text": "", "color": "", "tags": "[]", "group": "", "duration_ms": 100}
+{"id": "fade-lomid", "type": "frame", "text": "", "color": "", "tags": "[]", "group": "", "duration_ms": 100}
+{"id": "fade-lo", "type": "frame", "text": "", "color": "", "tags": "[]", "group": "", "duration_ms": 100}
+{"id": "blank", "type": "frame", "text": "", "color": "", "tags": "[]", "group": "", "duration_ms": 2000}
+{"id": "door-crack", "type": "frame", "text": "", "color": "", "tags": "", "group": "", "duration_ms": 66}
+{"id": "door-1/4-open", "type": "frame", "text": "", "color": "", "tags": "", "group": "", "duration_ms": 66}
+{"id": "door-1/2-open", "type": "frame", "text": "", "color": "", "tags": "", "group": "", "duration_ms": 66}
+{"id": "door-3/4-open", "type": "frame", "text": "", "color": "", "tags": "", "group": "", "duration_ms": 66}
+{"id": "door-open", "type": "frame", "text": "", "color": "", "tags": "", "group": "", "duration_ms": 3000}
+{"id": "door-3/4-open", "type": "frame", "text": "", "color": "", "tags": "", "group": "", "duration_ms": 66}
+{"id": "door-1/2-open", "type": "frame", "text": "", "color": "", "tags": "", "group": "", "duration_ms": 66}
+{"id": "door-1/4-open", "type": "frame", "text": "", "color": "", "tags": "", "group": "", "duration_ms": 66}
+{"id": "door-crack", "type": "frame", "text": "", "color": "", "tags": "", "group": "", "duration_ms": 66}
+{"x": 8, "y": 7, "text": " ", "color": "238", "tags": "[]", "group": "", "frame": "devottys"}
+{"id": "", "x": 6, "y": 7, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "devottys"}
+{"x": 10, "y": 7, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "devottys"}
+{"x": 12, "y": 7, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "devottys"}
+{"x": 13, "y": 7, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "devottys"}
+{"x": 14, "y": 7, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "devottys"}
+{"x": 16, "y": 7, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "devottys"}
+{"x": 18, "y": 7, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "devottys"}
+{"x": 15, "y": 8, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "devottys"}
+{"x": 9, "y": 6, "text": ")", "color": "231", "tags": "[]", "group": "", "frame": "devottys"}
+{"x": 13, "y": 6, "text": ")", "color": "231", "tags": "[]", "group": "", "frame": "devottys"}
+{"x": 19, "y": 6, "text": "'", "color": "231", "tags": "[]", "group": "", "frame": "devottys"}
+{"x": 15, "y": 5, "text": "/", "color": "244 underline", "tags": "[]", "group": "", "frame": "devottys"}
+{"x": 16, "y": 5, "text": "/", "color": "244 underline", "tags": "[]", "group": "", "frame": "devottys"}
+{"x": 6, "y": 7, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine1"}
+{"x": 10, "y": 7, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine1"}
+{"x": 12, "y": 7, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine1"}
+{"x": 13, "y": 7, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine1"}
+{"x": 14, "y": 7, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine1"}
+{"x": 16, "y": 7, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine1"}
+{"x": 18, "y": 7, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine1"}
+{"x": 14, "y": 5, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "shine1"}
+{"x": 15, "y": 5, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "shine1"}
+{"x": 16, "y": 5, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "shine1"}
+{"x": 5, "y": 7, "text": "(", "color": "231", "tags": "[]", "group": "", "frame": "shine2"}
+{"x": 7, "y": 7, "text": "(", "color": "231", "tags": "[]", "group": "", "frame": "shine2"}
+{"x": 9, "y": 7, "text": "(", "color": "231", "tags": "[]", "group": "", "frame": "shine2"}
+{"x": 11, "y": 7, "text": "(", "color": "231", "tags": "[]", "group": "", "frame": "shine2"}
+{"x": 15, "y": 7, "text": "(", "color": "231", "tags": "[]", "group": "", "frame": "shine2"}
+{"x": 17, "y": 7, "text": ".", "color": "231", "tags": "[]", "group": "", "frame": "shine2"}
+{"x": 14, "y": 8, "text": "(", "color": "231", "tags": "[]", "group": "", "frame": "shine2"}
+{"x": 14, "y": 5, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "shine2"}
+{"x": 15, "y": 5, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "shine2"}
+{"x": 16, "y": 5, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "shine2"}
+{"x": 15, "y": 8, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 6, "y": 6, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 7, "y": 6, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 8, "y": 6, "text": "/", "color": "231 underline", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 10, "y": 6, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 11, "y": 6, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 12, "y": 6, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 14, "y": 6, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 15, "y": 6, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 16, "y": 6, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 17, "y": 6, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 18, "y": 6, "text": "/", "color": "231 underline", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 7, "y": 5, "text": "_", "color": "231 underline", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 8, "y": 5, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 14, "y": 5, "text": "_", "color": "231 underline", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 15, "y": 5, "text": "/", "color": "231 underline", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 16, "y": 5, "text": "/", "color": "231 underline", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 6, "y": 7, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-himid"}
+{"x": 8, "y": 7, "text": " ", "color": "235", "tags": "[]", "group": "", "frame": "fade-himid"}
+{"x": 10, "y": 7, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-himid"}
+{"x": 12, "y": 7, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-himid"}
+{"x": 13, "y": 7, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-himid"}
+{"x": 14, "y": 7, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-himid"}
+{"x": 16, "y": 7, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-himid"}
+{"x": 18, "y": 7, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-himid"}
+{"x": 14, "y": 5, "text": "_", "color": "238 underline", "tags": "[]", "group": "", "frame": "fade-himid"}
+{"x": 15, "y": 5, "text": "/", "color": "238 underline", "tags": "[]", "group": "", "frame": "fade-himid"}
+{"x": 16, "y": 5, "text": "/", "color": "238 underline", "tags": "[]", "group": "", "frame": "fade-himid"}
+{"x": 5, "y": 7, "text": "(", "color": "238", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 7, "y": 7, "text": "(", "color": "238", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 9, "y": 7, "text": "(", "color": "238", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 11, "y": 7, "text": "(", "color": "238", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 15, "y": 7, "text": "(", "color": "238", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 17, "y": 7, "text": ".", "color": "238", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 6, "y": 6, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 7, "y": 6, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 8, "y": 6, "text": "/", "color": "238 underline", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 10, "y": 6, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 11, "y": 6, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 12, "y": 6, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 14, "y": 6, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 15, "y": 6, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 16, "y": 6, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 17, "y": 6, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 18, "y": 6, "text": "/", "color": "238 underline", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 8, "y": 5, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 14, "y": 5, "text": "_", "color": "235 underline", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 15, "y": 5, "text": "/", "color": "235 underline", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 16, "y": 5, "text": "/", "color": "235 underline", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 5, "y": 7, "text": "(", "color": "235", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 7, "y": 7, "text": "(", "color": "235", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 9, "y": 7, "text": "(", "color": "235", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 11, "y": 7, "text": "(", "color": "235", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 15, "y": 7, "text": "(", "color": "235", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 17, "y": 7, "text": ".", "color": "235", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 6, "y": 6, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 7, "y": 6, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 8, "y": 6, "text": "/", "color": "235 underline", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 9, "y": 6, "text": ")", "color": "238", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 10, "y": 6, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 11, "y": 6, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 12, "y": 6, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 13, "y": 6, "text": ")", "color": "238", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 14, "y": 6, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 15, "y": 6, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 16, "y": 6, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 17, "y": 6, "text": "/", "color": "235", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 18, "y": 6, "text": "/", "color": "235 underline", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 19, "y": 6, "text": "'", "color": "238", "tags": "[]", "group": "", "frame": "fade-lomid"}
+{"x": 9, "y": 6, "text": ")", "color": "235", "tags": "[]", "group": "", "frame": "fade-lo"}
+{"x": 13, "y": 6, "text": ")", "color": "235", "tags": "[]", "group": "", "frame": "fade-lo"}
+{"x": 19, "y": 6, "text": "'", "color": "235", "tags": "[]", "group": "", "frame": "fade-lo"}
+{"x": 14, "y": 5, "text": "_", "color": "244 underline", "tags": "[]", "group": "", "frame": "devottys"}
+{"x": 14, "y": 8, "text": "(", "color": "238", "tags": "[]", "group": "", "frame": "devottys"}
+{"x": 14, "y": 8, "text": "(", "color": "235", "tags": "[]", "group": "", "frame": "fade-himid"}
+{"x": 14, "y": 8, "text": "(", "color": "244", "tags": "[]", "group": "", "frame": "shine1"}
+{"x": 14, "y": 8, "text": "(", "color": "250", "tags": "[]", "group": "", "frame": "shine3"}
+{"x": 7, "y": 5, "text": "_", "color": "235 underline", "tags": "[]", "group": "", "frame": "fade-mid"}
+{"x": 22, "y": 3, "text": "%", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 21, "y": 4, "text": "%", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 20, "y": 5, "text": "%", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 22, "y": 3, "text": "'", "color": "231", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 21, "y": 4, "text": "'", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 20, "y": 5, "text": "'", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 21, "y": 3, "text": "'", "color": "231", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 20, "y": 3, "text": "\"", "color": "231", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 19, "y": 3, "text": "=", "color": "231", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 15, "y": 4, "text": "=", "color": "250", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 11, "y": 5, "text": "=", "color": "244", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 16, "y": 4, "text": "\"", "color": "250", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 12, "y": 5, "text": "\"", "color": "244", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 22, "y": 4, "text": "%", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 21, "y": 5, "text": "%", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 22, "y": 5, "text": "%", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 19, "y": 6, "text": "%", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 20, "y": 6, "text": "%", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 21, "y": 6, "text": "%", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 22, "y": 6, "text": "%", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 19, "y": 6, "text": "'", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 7, "y": 6, "text": "=", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 8, "y": 6, "text": "\"", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 3, "y": 7, "text": "=", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 4, "y": 7, "text": "\"", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 18, "y": 7, "text": "'", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 18, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 19, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 20, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 21, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 22, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 13, "y": 7, "text": "'", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 15, "y": 6, "text": "'", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 17, "y": 5, "text": "'", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 19, "y": 4, "text": "'", "color": "250", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 12, "y": 8, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 15, "y": 9, "text": ")", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 12, "y": 10, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 15, "y": 10, "text": "\\", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 1, "y": 8, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 4, "y": 9, "text": "\\", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 9, "y": 9, "text": "\\", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 1, "y": 10, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 4, "y": 10, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 10, "y": 10, "text": "\\", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 13, "y": 8, "text": "_", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 12, "y": 9, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 14, "y": 9, "text": ")", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 14, "y": 10, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 2, "y": 8, "text": "_", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 1, "y": 9, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 3, "y": 9, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 8, "y": 9, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 3, "y": 10, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 9, "y": 10, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 14, "y": 8, "text": "_", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 13, "y": 9, "text": "|", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 13, "y": 10, "text": "|", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 3, "y": 8, "text": "_", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 8, "y": 8, "text": "_", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 2, "y": 9, "text": "|", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 2, "y": 10, "text": "|", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 7, "y": 9, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 8, "y": 10, "text": "\"", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 6, "y": 10, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 7, "y": 10, "text": "\"", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 17, "y": 9, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 18, "y": 9, "text": "|", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 17, "y": 10, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 18, "y": 10, "text": "|", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 19, "y": 9, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 20, "y": 9, "text": "/", "color": "231 underline", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 20, "y": 10, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 21, "y": 10, "text": "\\", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 17, "y": 8, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 18, "y": 8, "text": "_", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 20, "y": 8, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 21, "y": 8, "text": "_", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 6, "y": 11, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 9, "y": 12, "text": ")", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 6, "y": 13, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 9, "y": 13, "text": "\\", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 1, "y": 11, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 4, "y": 12, "text": "\\", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 14, "y": 12, "text": "\\", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 1, "y": 13, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 4, "y": 13, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 15, "y": 13, "text": "\\", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 7, "y": 11, "text": "_", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 6, "y": 12, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 8, "y": 12, "text": ")", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 8, "y": 13, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 2, "y": 11, "text": "_", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 1, "y": 12, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 3, "y": 12, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 13, "y": 12, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 3, "y": 13, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 14, "y": 13, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 8, "y": 11, "text": "_", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 7, "y": 12, "text": "|", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 7, "y": 13, "text": "|", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 3, "y": 11, "text": "_", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 13, "y": 11, "text": "_", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 2, "y": 12, "text": "|", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 2, "y": 13, "text": "|", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 12, "y": 12, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 13, "y": 13, "text": "\"", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 11, "y": 13, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 12, "y": 13, "text": "\"", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 16, "y": 12, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 17, "y": 13, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 16, "y": 11, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 17, "y": 12, "text": "\\", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 18, "y": 13, "text": "\\", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 19, "y": 13, "text": "X", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 20, "y": 13, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 21, "y": 13, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 21, "y": 12, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 22, "y": 12, "text": "/", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 22, "y": 11, "text": "_", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 21, "y": 11, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 17, "y": 11, "text": "_", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 7, "y": 8, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 12, "y": 11, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 20, "y": 1, "text": "'", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 19, "y": 2, "text": ";", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 17, "y": 1, "text": "]", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 16, "y": 3, "text": "]", "color": "250", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 12, "y": 4, "text": ";", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 8, "y": 2, "text": "'", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 13, "y": 2, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 5, "y": 4, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 5, "y": 3, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 8, "y": 1, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 4, "y": 3, "text": "'", "color": "236", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 7, "y": 1, "text": ",", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 12, "y": 3, "text": ",", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 12, "y": 2, "text": "`", "color": "244", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 8, "y": 5, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 8, "y": 4, "text": ",", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 7, "y": 5, "text": ",", "color": "238", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 20, "y": 1, "text": "'", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 19, "y": 2, "text": ";", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 17, "y": 1, "text": "]", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 16, "y": 3, "text": "]", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 12, "y": 4, "text": ";", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 8, "y": 2, "text": "'", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 13, "y": 2, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 8, "y": 1, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 7, "y": 1, "text": ",", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 12, "y": 3, "text": ",", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 12, "y": 2, "text": "`", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 8, "y": 5, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 8, "y": 4, "text": ",", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 7, "y": 5, "text": ",", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 20, "y": 1, "text": "'", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 19, "y": 2, "text": ";", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 17, "y": 1, "text": "]", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 16, "y": 3, "text": "]", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 12, "y": 4, "text": ";", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 13, "y": 2, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 12, "y": 3, "text": ",", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 12, "y": 2, "text": "`", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 20, "y": 1, "text": "'", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 19, "y": 2, "text": ";", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 17, "y": 1, "text": "]", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 16, "y": 3, "text": "]", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 20, "y": 1, "text": "'", "color": "236", "tags": "[]", "group": "", "frame": "door-crack", "href": ""}
+{"x": 22, "y": 2, "text": "\u2588", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 22, "y": 1, "text": "\u2588", "color": "231", "tags": "[]", "group": "", "frame": "door-open", "href": ""}
+{"x": 22, "y": 1, "text": "\u258c", "color": "231", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 22, "y": 2, "text": "\u258c", "color": "231", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 21, "y": 1, "text": "\u258c", "color": "231", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 21, "y": 2, "text": "\u258c", "color": "231", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 21, "y": 1, "text": "\u258f", "color": "231", "tags": "[]", "group": "", "frame": "door-crack", "href": ""}
+{"x": 21, "y": 2, "text": "\u258f", "color": "231", "tags": "[]", "group": "", "frame": "door-crack", "href": ""}
+{"x": 19, "y": 2, "text": ";", "color": "236", "tags": "[]", "group": "", "frame": "door-crack", "href": ""}
+{"x": 19, "y": 4, "text": "%", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open door-open", "href": ""}
+{"x": 18, "y": 5, "text": "%", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open door-open", "href": ""}
+{"x": 17, "y": 5, "text": "%", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open door-open", "href": ""}
+{"x": 20, "y": 3, "text": "%", "color": "231", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 19, "y": 3, "text": "x", "color": "231", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 16, "y": 4, "text": "%", "color": "250", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 15, "y": 4, "text": "x", "color": "250", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 17, "y": 4, "text": "%", "color": "250", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 18, "y": 4, "text": "%", "color": "250", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 16, "y": 5, "text": "%", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 15, "y": 5, "text": "%", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 12, "y": 5, "text": "%", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 13, "y": 5, "text": "%", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 14, "y": 5, "text": "%", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 11, "y": 5, "text": "x", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 18, "y": 3, "text": ",", "color": "231", "tags": "[]", "group": "", "frame": "door-1/2-open door-1/4-open door-3/4-open door-open", "href": ""}
+{"x": 14, "y": 4, "text": ",", "color": "250", "tags": "[]", "group": "", "frame": "door-1/2-open door-1/4-open door-3/4-open door-open", "href": ""}
+{"x": 10, "y": 5, "text": ",", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open door-1/4-open door-3/4-open door-open", "href": ""}
+{"x": 15, "y": 6, "text": "%", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open door-open", "href": ""}
+{"x": 16, "y": 6, "text": "%", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open door-open", "href": ""}
+{"x": 17, "y": 6, "text": "%", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open door-open", "href": ""}
+{"x": 7, "y": 6, "text": "x", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 9, "y": 6, "text": "%", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 10, "y": 6, "text": "%", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 11, "y": 6, "text": "%", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 12, "y": 6, "text": "%", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 13, "y": 6, "text": "%", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 14, "y": 6, "text": "%", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 6, "y": 6, "text": ",", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open door-1/4-open door-3/4-open door-open", "href": ""}
+{"x": 9, "y": 5, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open door-1/4-open door-3/4-open door-open", "href": ""}
+{"x": 13, "y": 4, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open door-1/4-open door-3/4-open door-open", "href": ""}
+{"x": 17, "y": 3, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-1/2-open door-1/4-open door-3/4-open door-open", "href": ""}
+{"x": 8, "y": 6, "text": "%", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 5, "y": 6, "text": "_", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open door-1/4-open door-3/4-open door-open", "href": ""}
+{"x": 2, "y": 7, "text": ",", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open door-1/4-open door-3/4-open door-open", "href": ""}
+{"x": 3, "y": 7, "text": "x", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 4, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 5, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 6, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 7, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 8, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 9, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 10, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 13, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open door-open", "href": ""}
+{"x": 14, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open door-open", "href": ""}
+{"x": 15, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open door-open", "href": ""}
+{"x": 16, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open door-open", "href": ""}
+{"x": 11, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 12, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 21, "y": 3, "text": "%", "color": "231", "tags": "[]", "group": "", "frame": "door-3/4-open door-open", "href": ""}
+{"x": 20, "y": 4, "text": "%", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open door-open", "href": ""}
+{"x": 19, "y": 5, "text": "%", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open door-open", "href": ""}
+{"x": 18, "y": 6, "text": "%", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open door-open", "href": ""}
+{"x": 17, "y": 7, "text": "%", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open door-open", "href": ""}
+{"x": 21, "y": 1, "text": "\u2588", "color": "231", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 21, "y": 2, "text": "\u2588", "color": "231", "tags": "[]", "group": "", "frame": "door-1/2-open door-3/4-open door-open", "href": ""}
+{"x": 15, "y": 8, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "shine1 shine2"}
+{"x": 7, "y": 5, "text": "_", "color": "238 underline", "tags": "[]", "group": "", "frame": "shine1 fade-himid"}
+{"x": 7, "y": 5, "text": "_", "color": "244 underline", "tags": "[]", "group": "", "frame": "devottys shine2"}
+{"x": 5, "y": 7, "text": "(", "color": "244", "tags": "[]", "group": "", "frame": "devottys fade-himid"}
+{"x": 7, "y": 7, "text": "(", "color": "244", "tags": "[]", "group": "", "frame": "devottys fade-himid"}
+{"x": 9, "y": 7, "text": "(", "color": "244", "tags": "[]", "group": "", "frame": "devottys fade-himid"}
+{"x": 11, "y": 7, "text": "(", "color": "244", "tags": "[]", "group": "", "frame": "devottys fade-himid"}
+{"x": 15, "y": 7, "text": "(", "color": "244", "tags": "[]", "group": "", "frame": "devottys fade-himid"}
+{"x": 17, "y": 7, "text": ".", "color": "244", "tags": "[]", "group": "", "frame": "devottys fade-himid"}
+{"x": 6, "y": 6, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "devottys shine2"}
+{"x": 7, "y": 6, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "devottys shine2"}
+{"x": 8, "y": 6, "text": "/", "color": "250 underline", "tags": "[]", "group": "", "frame": "devottys shine2"}
+{"x": 10, "y": 6, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "devottys shine2"}
+{"x": 11, "y": 6, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "devottys shine2"}
+{"x": 12, "y": 6, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "devottys shine2"}
+{"x": 14, "y": 6, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "devottys shine2"}
+{"x": 15, "y": 6, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "devottys shine2"}
+{"x": 16, "y": 6, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "devottys shine2"}
+{"x": 17, "y": 6, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "devottys shine2"}
+{"x": 18, "y": 6, "text": "/", "color": "250 underline", "tags": "[]", "group": "", "frame": "devottys shine2"}
+{"x": 8, "y": 5, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "devottys shine2"}
+{"x": 5, "y": 7, "text": "(", "color": "250", "tags": "[]", "group": "", "frame": "shine1 shine3"}
+{"x": 7, "y": 7, "text": "(", "color": "250", "tags": "[]", "group": "", "frame": "shine1 shine3"}
+{"x": 8, "y": 7, "text": " ", "color": "250", "tags": "[]", "group": "", "frame": "shine1 shine2 shine3"}
+{"x": 9, "y": 7, "text": "(", "color": "250", "tags": "[]", "group": "", "frame": "shine1 shine3"}
+{"x": 11, "y": 7, "text": "(", "color": "250", "tags": "[]", "group": "", "frame": "shine1 shine3"}
+{"x": 15, "y": 7, "text": "(", "color": "250", "tags": "[]", "group": "", "frame": "shine1 shine3"}
+{"x": 17, "y": 7, "text": ".", "color": "250", "tags": "[]", "group": "", "frame": "shine1 shine3"}
+{"x": 6, "y": 6, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "shine1 fade-himid"}
+{"x": 7, "y": 6, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "shine1 fade-himid"}
+{"x": 8, "y": 6, "text": "/", "color": "244 underline", "tags": "[]", "group": "", "frame": "shine1 fade-himid"}
+{"x": 9, "y": 6, "text": ")", "color": "244", "tags": "[]", "group": "", "frame": "shine1 fade-mid"}
+{"x": 10, "y": 6, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "shine1 fade-himid"}
+{"x": 11, "y": 6, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "shine1 fade-himid"}
+{"x": 12, "y": 6, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "shine1 fade-himid"}
+{"x": 13, "y": 6, "text": ")", "color": "244", "tags": "[]", "group": "", "frame": "shine1 fade-mid"}
+{"x": 14, "y": 6, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "shine1 fade-himid"}
+{"x": 15, "y": 6, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "shine1 fade-himid"}
+{"x": 16, "y": 6, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "shine1 fade-himid"}
+{"x": 17, "y": 6, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "shine1 fade-himid"}
+{"x": 18, "y": 6, "text": "/", "color": "244 underline", "tags": "[]", "group": "", "frame": "shine1 fade-himid"}
+{"x": 19, "y": 6, "text": "'", "color": "244", "tags": "[]", "group": "", "frame": "shine1 fade-mid"}
+{"x": 8, "y": 5, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "shine1 fade-himid"}
+{"x": 6, "y": 7, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "shine2 shine3"}
+{"x": 10, "y": 7, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "shine2 shine3"}
+{"x": 12, "y": 7, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "shine2 shine3"}
+{"x": 13, "y": 7, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "shine2 shine3"}
+{"x": 14, "y": 7, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "shine2 shine3"}
+{"x": 16, "y": 7, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "shine2 shine3"}
+{"x": 18, "y": 7, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "shine2 shine3"}
+{"x": 9, "y": 6, "text": ")", "color": "250", "tags": "[]", "group": "", "frame": "shine2 shine3 fade-himid"}
+{"x": 13, "y": 6, "text": ")", "color": "250", "tags": "[]", "group": "", "frame": "shine2 shine3 fade-himid"}
+{"x": 19, "y": 6, "text": "'", "color": "250", "tags": "[]", "group": "", "frame": "shine2 shine3 fade-himid"}
+{"x": 1, "y": 8, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 2, "y": 8, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 3, "y": 8, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 7, "y": 8, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 8, "y": 8, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 12, "y": 8, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 13, "y": 8, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 14, "y": 8, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 17, "y": 8, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 18, "y": 8, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 20, "y": 8, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 21, "y": 8, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 1, "y": 9, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 2, "y": 9, "text": "|", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 3, "y": 9, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 4, "y": 9, "text": "\\", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 7, "y": 9, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 8, "y": 9, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 9, "y": 9, "text": "\\", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 12, "y": 9, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 13, "y": 9, "text": "|", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 14, "y": 9, "text": ")", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 15, "y": 9, "text": ")", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 17, "y": 9, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 18, "y": 9, "text": "|", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 19, "y": 9, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 20, "y": 9, "text": "/", "color": "250 underline", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 1, "y": 10, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 2, "y": 10, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 3, "y": 10, "text": "/", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 4, "y": 10, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 6, "y": 10, "text": "/", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 7, "y": 10, "text": "\"", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 8, "y": 10, "text": "\"", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 9, "y": 10, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 10, "y": 10, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 12, "y": 10, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 13, "y": 10, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 14, "y": 10, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 15, "y": 10, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 17, "y": 10, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 18, "y": 10, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 20, "y": 10, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 21, "y": 10, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 1, "y": 11, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 2, "y": 11, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 3, "y": 11, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 6, "y": 11, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 7, "y": 11, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 8, "y": 11, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 12, "y": 11, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 13, "y": 11, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 16, "y": 11, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 17, "y": 11, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 21, "y": 11, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 22, "y": 11, "text": "_", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 1, "y": 12, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 2, "y": 12, "text": "|", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 3, "y": 12, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 4, "y": 12, "text": "\\", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 6, "y": 12, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 7, "y": 12, "text": "|", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 8, "y": 12, "text": ")", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 9, "y": 12, "text": ")", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 12, "y": 12, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 13, "y": 12, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 14, "y": 12, "text": "\\", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 16, "y": 12, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 17, "y": 12, "text": "\\", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 21, "y": 12, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 22, "y": 12, "text": "/", "color": "250", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 1, "y": 13, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 2, "y": 13, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 3, "y": 13, "text": "/", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 4, "y": 13, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 6, "y": 13, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 7, "y": 13, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 8, "y": 13, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 9, "y": 13, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 11, "y": 13, "text": "/", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 12, "y": 13, "text": "\"", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 13, "y": 13, "text": "\"", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 14, "y": 13, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 15, "y": 13, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 17, "y": 13, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 18, "y": 13, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 19, "y": 13, "text": "X", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 20, "y": 13, "text": "/", "color": "236", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 21, "y": 13, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "door-3/4-open", "href": ""}
+{"x": 1, "y": 8, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 2, "y": 8, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 3, "y": 8, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 7, "y": 8, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 8, "y": 8, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 12, "y": 8, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 13, "y": 8, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 14, "y": 8, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 17, "y": 8, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 18, "y": 8, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 20, "y": 8, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 21, "y": 8, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 1, "y": 9, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 2, "y": 9, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 3, "y": 9, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 4, "y": 9, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 7, "y": 9, "text": "/", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 8, "y": 9, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 9, "y": 9, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 12, "y": 9, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 13, "y": 9, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 14, "y": 9, "text": ")", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 15, "y": 9, "text": ")", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 17, "y": 9, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 18, "y": 9, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 19, "y": 9, "text": "/", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 20, "y": 9, "text": "/", "color": "244 underline", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 1, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 2, "y": 10, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 3, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 4, "y": 10, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 6, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 7, "y": 10, "text": "\"", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 8, "y": 10, "text": "\"", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 9, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 10, "y": 10, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 12, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 13, "y": 10, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 14, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 15, "y": 10, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 17, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 18, "y": 10, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 20, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 21, "y": 10, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 1, "y": 11, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 2, "y": 11, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 3, "y": 11, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 6, "y": 11, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 7, "y": 11, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 8, "y": 11, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 12, "y": 11, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 13, "y": 11, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 16, "y": 11, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 17, "y": 11, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 21, "y": 11, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 22, "y": 11, "text": "_", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 1, "y": 12, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 2, "y": 12, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 3, "y": 12, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 4, "y": 12, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 6, "y": 12, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 7, "y": 12, "text": "|", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 8, "y": 12, "text": ")", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 9, "y": 12, "text": ")", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 12, "y": 12, "text": "/", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 13, "y": 12, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 14, "y": 12, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 16, "y": 12, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 17, "y": 12, "text": "\\", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 21, "y": 12, "text": "/", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 22, "y": 12, "text": "/", "color": "244", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 1, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 2, "y": 13, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 3, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 4, "y": 13, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 6, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 7, "y": 13, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 8, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 9, "y": 13, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 11, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 12, "y": 13, "text": "\"", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 13, "y": 13, "text": "\"", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 14, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 15, "y": 13, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 17, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 18, "y": 13, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 19, "y": 13, "text": "X", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 20, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 21, "y": 13, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "door-1/2-open", "href": ""}
+{"x": 1, "y": 8, "text": "_", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 2, "y": 8, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 3, "y": 8, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 7, "y": 8, "text": "_", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 8, "y": 8, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 12, "y": 8, "text": "_", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 13, "y": 8, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 14, "y": 8, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 17, "y": 8, "text": "_", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 18, "y": 8, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 20, "y": 8, "text": "_", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 21, "y": 8, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 1, "y": 9, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 2, "y": 9, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 3, "y": 9, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 4, "y": 9, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 7, "y": 9, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 8, "y": 9, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 9, "y": 9, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 12, "y": 9, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 13, "y": 9, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 14, "y": 9, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 15, "y": 9, "text": ")", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 17, "y": 9, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 18, "y": 9, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 19, "y": 9, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 20, "y": 9, "text": "/", "color": "238 underline", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 1, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 2, "y": 10, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 3, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 4, "y": 10, "text": "/", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 6, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 7, "y": 10, "text": "\"", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 8, "y": 10, "text": "\"", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 9, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 10, "y": 10, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 12, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 13, "y": 10, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 14, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 15, "y": 10, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 17, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 18, "y": 10, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 20, "y": 10, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 21, "y": 10, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 1, "y": 11, "text": "_", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 2, "y": 11, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 3, "y": 11, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 6, "y": 11, "text": "_", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 7, "y": 11, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 8, "y": 11, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 12, "y": 11, "text": "_", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 13, "y": 11, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 16, "y": 11, "text": "_", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 17, "y": 11, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 21, "y": 11, "text": "_", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 22, "y": 11, "text": "_", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 1, "y": 12, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 2, "y": 12, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 3, "y": 12, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 4, "y": 12, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 6, "y": 12, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 7, "y": 12, "text": "|", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 8, "y": 12, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 9, "y": 12, "text": ")", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 12, "y": 12, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 13, "y": 12, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 14, "y": 12, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 16, "y": 12, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 17, "y": 12, "text": "\\", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 21, "y": 12, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 22, "y": 12, "text": "/", "color": "238", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 1, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 2, "y": 13, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 3, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 4, "y": 13, "text": "/", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 6, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 7, "y": 13, "text": "|", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 8, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 9, "y": 13, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 11, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 12, "y": 13, "text": "\"", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 13, "y": 13, "text": "\"", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 14, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 15, "y": 13, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 17, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 18, "y": 13, "text": "\\", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 19, "y": 13, "text": "X", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 20, "y": 13, "text": " ", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
+{"x": 21, "y": 13, "text": "/", "color": "236", "tags": "[]", "group": "", "frame": "door-1/4-open", "href": ""}
